@@ -1,4 +1,4 @@
-#Polar Coordinates
+Polar Coordinates
 ---
 Coordinates in a **Polar coordinate system** have two values - radius *r* and angle *a*. This program present us how to add two or more polar coordinates using an overloaded aritnmetic operation with conversion to **Cartesian coordinate system** and back. 
 
